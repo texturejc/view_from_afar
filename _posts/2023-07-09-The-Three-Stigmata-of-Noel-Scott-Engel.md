@@ -20,18 +20,18 @@ Your most secret defeat.<br>
 
 Sleep Walker’s death wasn’t quick. We can still hear his murderer at work, 28 years later, on The Drift: 
 <p style="margin-left: 25px;">
-Jesse are you listening?
-. . .
-I lower my head
-Press my ear to the prairie.
-
-‘Alive, I'm the only one
-Left alive
-I'm the only one
-Left alive
-I'm the only one
-Left alive
-Alive.’
+Jesse are you listening?<br>
+. . .<br>
+I lower my head<br>
+Press my ear to the prairie.<br>
+<br>
+‘Alive, I'm the only one<br>
+Left alive<br>
+I'm the only one<br>
+Left alive<br>
+I'm the only one<br>
+Left alive<br>
+Alive.’<br>
 </p>
 
 Thus does Jesse, the unborn brother, the six feet of foetus, answer Elvis, the teen idol, from his grave beneath the American grasslands. Go listen to it, if you haven’t already; it’s the most harrowing vocal in all of music. It’s the sound of truth murdering beauty.
