@@ -11,13 +11,15 @@ Scott Walker’s later music unsettles, not because it’s alien, but because it
 
 It’s to Walker’s credit that he hated it. Most of us, when we have a skill, prescribe it like penicillin: Jeffrey Dahmer, probably, felt serial killing to be a public good. And Walker knew the moves of seduction better than the inside of his own mouth. So, when he chose to become the mirror instead of the reflection, the idol he was killing was himself. 
 
-In the strength of the crime
-You sing like a stranger
-And your failure fulfils
-Your most secret defeat.
+<p style="margin-left: 25px;">
+In the strength of the crime<br>
+You sing like a stranger<br>
+And your failure fulfils<br>
+Your most secret defeat.<br>
+</p>
 
 Sleep Walker’s death wasn’t quick. We can still hear his murderer at work, 28 years later, on The Drift: 
-
+<p style="margin-left: 25px;">
 Jesse are you listening?
 . . .
 I lower my head
@@ -30,16 +32,19 @@ Left alive
 I'm the only one
 Left alive
 Alive.’
+</p>
 
 Thus does Jesse, the unborn brother, the six feet of foetus, answer Elvis, the teen idol, from his grave beneath the American grasslands. Go listen to it, if you haven’t already; it’s the most harrowing vocal in all of music. It’s the sound of truth murdering beauty.
 
 But anyone will tell you that the second murder is easier than the first. Having killed himself, Walker set about killing the rest of us, too. You can’t be convicted of homicide if there’s no such thing as a human. 
 
-	KURTZ:		What did they tell you?
-WILLARD:	They told me that you had gone totally insane 
-			and that your methods were unsound.
-KURTZ: 	Are my methods unsound?
-WILLARD:	I don’t see any method at all, sir.
+<p style="margin-left: 25px;">
+KURTZ: What did they tell you?<br>
+WILLARD: They told me that you had gone totally insane<br>
+and that your methods were unsound.<br>
+KURTZ: 	Are my methods unsound?<br>
+WILLARD: I don’t see any method at all, sir.<br>
+</p>
 
 But there was a method, all the same. From 1978’s Nite Flights onwards, Walker diced our culture into a slurry and fed it back to us.  As is so often the case, the first step comprehends the whole journey. Nite Flights. Ingest Filth. (Shitting Elf works too, if you’re reading this to your kids.) And, like the prisoners in Salo, Pasolini’s torture-porn, we ate the shit we were served. David Bowie, famously, could never get the taste out of his mouth. Brian Eno maintained the shit was so good that we’ve never had better since. In Bish Bosch, Walker himself allowed that if shit were music, he’d be a brass band. 
 
@@ -47,10 +52,12 @@ But there was a method, all the same. From 1978’s Nite Flights onwards, Walker
 
 When AlphaGo beat Lee Sedol in 2016, it made headline news; in 2019, when Gwern taught GPT-2 to write like Shelley, Reuters reckoned that this one could sit on the spike. Fair enough: only nerds dig boardgames and Shelley was mean to his wife. Still, poetry pays in prestige—it’s not like there’s a Dante of checkers—so you’d think the belletrists would at least have broken a sweat when the central bank started printing money:
 
-My heart, why come you here alone? 
-The wild thing of my heart is grown 
-To be a thing,
-Fairy, and wild, and fair, and whole. 
+<p style="margin-left: 25px;">
+My heart, why come you here alone?<br>
+The wild thing of my heart is grown<br>
+To be a thing,<br>
+Fairy, and wild, and fair, and whole.<br>
+</p>
 
 (Yes, I know: there is precisely no one alive today whose inner life is captured by these lines. Do you think that would have been different in 1818?)
 
@@ -64,9 +71,11 @@ Algorithms, we’re told, encode our biases. This is great news. At the time of 
 
 When Walker shuffled the deck, something else came up. Sure, it still looks like cancer; see it standing there, its face pressed up against the glass!
 
-As the grossness of spring rose
-A tumour balloon to squeak against the window
-With the grossness of spring staining into the walls
+<p style="margin-left: 25px;">
+As the grossness of spring rose<br>
+A tumour balloon to squeak against the window<br>
+With the grossness of spring staining into the walls<br>
+</p>
 
 But this isn’t cancer as a disease of proteins; it’s cancer as a pathology of information. It’s the cancer of a system trying to reproduce itself and gestating something else instead. This cancer is entropy’s answer to narcissism. Walker didn’t need telling that it’s terminal—after all, it’s how he disappeared. 
 
@@ -78,10 +87,12 @@ We won’t survive it; no one does. That’s why SETI only ever detects silence.
 
 “The Electrician” is a song about a CIA torturer. In the Vietnam era, the innovation was to attach the batteries from field radios to the testicles of informants. These days, Psy Ops finds that approach to be a little roundabout and goes straight for the music instead. The principle, however, is the same:
 
-If I jerk the handle
-You'll die in your dreams
-If I jerk the handle, jerk the handle
-You'll thrill me and thrill me and thrill me
+<p style="margin-left: 25px;">
+If I jerk the handle<br>
+You'll die in your dreams<br>
+If I jerk the handle, jerk the handle<br>
+You'll thrill me and thrill me and thrill me<br>
+</p>
 
 In February of 1978, Scott Walker jerked the handle and we died in our dreams. We’ll stay dead, if we know what’s good for us.  
 
