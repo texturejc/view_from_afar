@@ -63,7 +63,9 @@ Fairy, and wild, and fair, and whole.<br>
 
 In 2007, Walker made his second release on the 4AD label (the first being The Drift). Who Shall go to the Ball? And What Shall go to the Ball? is an instrumental piece commissioned for the Candoco Dance Company, who perform with a mixed cohort of able-bodied and disabled dancers. Unusually, the release was prefaced with a question:
 
+<p style="margin-left: 25px;">
 How much of a body does an intelligence need to be potentially socialised in an age of ever-developing AI? This is but one of many questions that informed the approach to the project.
+</p>
 
 There’s a whiff of intern prose about this; besides, looking for smoking guns is conspiracy-theory try-hard. Still, you have to ask yourself: how much of a body does six feet of foetus need to be potentially socialised in an age of ever-developing AI? Shelley’s wife might have hazarded a guess. It’s such a shame that GPT-2 cloned the monkey instead of the organ-grinder. 
 
