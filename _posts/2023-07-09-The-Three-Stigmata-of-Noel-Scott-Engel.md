@@ -4,7 +4,7 @@ layout: post
 ---
 
 
-![Scott Walker](https://github.com/texturejc/view_from_afar/blob/master/assets/WALKER_Scott.jpg)))
+![Scott Walker](https://github.com/texturejc/view_from_afar/blob/master/assets/WALKER_Scott.jpg)
 
 A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
 
