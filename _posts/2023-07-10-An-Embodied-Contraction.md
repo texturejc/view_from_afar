@@ -5,7 +5,7 @@ layout: post
 
 ![Summum bonum](https://www.drugs.com/images/pills/mtm/649800158_PB.jpg)
 
-[This is blog post is a companion piece for <a href = "https://www.degruyter.com/document/doi/10.26613/esic.4.1.172/html?lang=en"><my review article</a> on embodied cognition for Evolutionary Studies in Imaginative Culture. It was originally published <a href = "https://www.esiculture.com/blog/2020/9/9/thinking-avant-la-lettre-a-review-of-4e-cognition">< here</a>.
+[This is blog post is a companion piece for <a href = "https://www.degruyter.com/document/doi/10.26613/esic.4.1.172/html?lang=en">my review article</a> on embodied cognition for Evolutionary Studies in Imaginative Culture. It was originally published <a href = "https://www.esiculture.com/blog/2020/9/9/thinking-avant-la-lettre-a-review-of-4e-cognition"> here</a>.
 
 If the personal history behind a research article is sometimes useful to have, its value is less obvious for a review article. Reviewers, after all, should be objective, and even if this can never realistically be achieved, it still seems a little shameless to parade the deficiency. I do so here because I think that the different ways in which I have encountered 4E perspectives illustrate some tensions in the practice of 4E that are usually invisible in the academic literature. These tensions are important because they illustrate how the presentation of 4E as a radical intellectual program by humanities scholars (though not only them) can run ahead of the more prosaic reality of actual 4E research. Should my experiences not chime with those of others who have worked in 4E, I can only remind them that they have foresworn disembodied objectivity on a priori grounds, and thus have no claim against the reviewer who fails to exhibit it.
 
