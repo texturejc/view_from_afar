@@ -1,5 +1,5 @@
 ---
-title:  "An Embodied Contraction: Some Personal Reflections on 4E Cognition"
+title:  "An Embodied Contradiction: Some Personal Reflections on 4E Cognition"
 layout: post
 ---
 
